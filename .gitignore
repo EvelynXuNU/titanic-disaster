@@ -1,4 +1,5 @@
-.DS_Store
-src/data/
-__pycache__/
+.venv/
 venv/
+__pycache__/
+src/data/
+.DS_Store
